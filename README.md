@@ -1,8 +1,6 @@
 # Automatic-Detection-Of-Lumpy-Skin-Disease-Using-Deep-Learning-Techniques
 
-<p align='center'>
 ![Cover](https://github.com/aryashah2k/Automatic-Detection-Of-Lumpy-Skin-Disease-Using-Deep-Learning-Techniques/blob/main/assets/Lumpy-Skin-Disease.jpg)
-</p>
 
 Independent Research Project on Automatic Detection Of Lumpy Skin Disease Using Deep Learning Techniques.
 
