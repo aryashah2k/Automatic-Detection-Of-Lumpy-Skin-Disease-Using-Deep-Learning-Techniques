@@ -4,8 +4,8 @@ Independent Research Project on Automatic Detection Of Lumpy Skin Disease Using 
 
 |No.|Topic|Direct link|
 |---|-----|-----------|
-|1.|||
-|2.|||
+|1.|Notebooks|<a href="https://github.com/aryashah2k/Automatic-Detection-Of-Lumpy-Skin-Disease-Using-Deep-Learning-Techniques/tree/main/Notebooks">Click To View</a>|
+|2.|Reference Papers|<a href="https://github.com/aryashah2k/Automatic-Detection-Of-Lumpy-Skin-Disease-Using-Deep-Learning-Techniques/tree/main/Reference%20Papers">Click To View</a>|
 
 ---------------------------------------------
 
